@@ -1,0 +1,3 @@
+/home/meysam/Desktop/remote_monitor/build/CMakeFiles/rebuild_cache.dir
+/home/meysam/Desktop/remote_monitor/build/CMakeFiles/edit_cache.dir
+/home/meysam/Desktop/remote_monitor/build/CMakeFiles/remote_monitor.dir

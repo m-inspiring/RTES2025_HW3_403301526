@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/remote_monitor.dir/src/main.cpp.o CMakeFiles/remote_monitor.dir/src/ssh_connection.cpp.o CMakeFiles/remote_monitor.dir/src/hardware_monitor.cpp.o  -o remote_monitor  /usr/lib/x86_64-linux-gnu/libssh.so.4.8.4 

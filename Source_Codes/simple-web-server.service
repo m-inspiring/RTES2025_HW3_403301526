@@ -1,0 +1,16 @@
+[Unit]
+Description=Simple netcat-based HTTP Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/home/orangepi/simple-web-server.sh
+Restart=on-failure
+RestartSec=5
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=simple-web-server
+
+[Install]
+WantedBy=multi-user.target
